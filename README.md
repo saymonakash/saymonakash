@@ -1,7 +1,11 @@
-<h1 align="center">Hi. I am Saymon Arefin Akash</h1>
-<h3>I am a highly skilled and passionate Front-End developer hailing from Bangladesh.</h3>
-<p>With expertise in HTML, CSS, JavaScript, VueJs, AlpineJs, Bootstrap, TailwindCSS, and WordPress CMS, I am dedicated to creating exceptional web designs and delivering top-notch development projects. I am known for their unwavering commitment to client satisfaction, ensuring that projects are completed to perfection and delivered on time. I have in-depth knowledge of various programming languages and frameworks that allows them to create visually stunning and highly functional websites that meet and exceed client expectations. What sets me apart is my versatility and adaptability. I possess exceptional problem-solving skills, allowing me to tackle complex projects with ease. Whether it's developing a custom website from scratch or working on WordPress CMS, I have the expertise to deliver outstanding results that I believe.
-I have strong attention to detail and the ability to translate client requirements into seamless user experiences making them an invaluable asset to any project. I thrive in collaborative environments, effectively communicating with clients and team members to ensure a smooth and efficient workflow. With a track record of consistently delivering high-quality projects, I am the go-to professional for anyone seeking a skilled and reliable Front-End developer.</p>
+<h3>My name is Saymon Arefin Akash, </h3>
+<p>I am a highly skilled and dedicated Front-End developer from Bangladesh.
+
+With over 3 years of experience in the field, I have honed my skills in HTML, CSS, JavaScript, VueJs, React js, AlpineJs, Bootstrap, and TailwindCSS. These technologies have allowed me to create stunning and functional websites that not only meet the client's expectations but also exceed them.
+
+What sets me apart from others is my unwavering passion for Front-End development. I approach every project with enthusiasm and an eye for detail, ensuring that the final product is not just visually appealing but also user-friendly and responsive across all devices. I believe that a successful website should not only look good but also provide an exceptional user experience.
+
+In addition to my technical skills, I am also a great communicator and a team player. I understand the importance of collaboration and actively involve clients in the development process, taking their feedback and incorporating it into the project. This ensures that the end result aligns perfectly with their vision and goals.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saymonakash&label=Profile%20views&color=0e75b6&style=flat" alt="saymonakash" /> </p>
 
@@ -9,10 +13,21 @@ I have strong attention to detail and the ability to translate client requiremen
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=saymonakash&column=7&theme=juicyfresh&no-frame=true"/>
 </a>
 
+- 🌱 I’m currently learning **Vue Js**
+
+<!-- - 📫 How to reach me **saymonakash310@gmail.com** -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/saymonakash310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saymonakash310" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saymonakash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saymonakash" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SaymonArefinAkash310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saymonarefin.akash.58" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saymon_arefin_akash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saymon_arefin_akash" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 
 ---
 
